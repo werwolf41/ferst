@@ -1,6 +1,7 @@
 {
   "name": "ferstProgect",
   "dependencies": {
-    "jquery": "1.11"
+    "jquery": "1.11",
+    "normalize-css": "normalize.css#^6.0.0"
   }
 }
